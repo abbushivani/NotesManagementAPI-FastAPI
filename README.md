@@ -25,3 +25,13 @@ A REST API built with FastAPI for secure note management.
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+#Author
+**Abbu Shivani**
+-BCA Graduate
+-Python Developer
+_GitHub:
+https://github.com/abbushivani
+
+#License
+This project is licensed under the MIT License
